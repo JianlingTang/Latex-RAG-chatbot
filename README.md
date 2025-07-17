@@ -1,6 +1,3 @@
-Here is your complete, production-ready `README.md` content that you can **copy and paste directly** into your repo's `README.md` file:
-
-````markdown
 # 🧠 LaTeX RAG Chatbot (Streamlit App)
 
 This is a lightweight Retrieval-Augmented Generation (RAG) chatbot built with Streamlit, designed to parse LaTeX `.tex` documents and answer questions using OpenAI's GPT models.
@@ -77,11 +74,7 @@ Open the provided `localhost` URL in your browser to interact with the chatbot!
 4. Launch `app.py` via Streamlit
 5. Ask questions — the bot will retrieve context and generate accurate answers
 
----
 
-## 📬 License
-
-MIT License © 2025 Janet Tang
 
 
 
