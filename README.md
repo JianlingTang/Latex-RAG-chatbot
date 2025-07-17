@@ -26,3 +26,11 @@ cd latex-rag-chatbot
 conda create -n texrag python=3.11
 conda activate texrag
 pip install -r requirements.txt
+
+## 🧪 To deploy on Streamlit 
+
+```bash
+streamlit run app.py
+
+Then copy paste the localURL to use the chatbot interatively!
+
