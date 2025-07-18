@@ -74,7 +74,8 @@ Open the provided `localhost` URL in your browser to interact with the chatbot!
 4. Launch `app.py` via Streamlit
 5. Ask questions — the bot will retrieve context and generate accurate answers
 
-
+## Citation 
+The demo paper in LaTeX format is from arXiv:1506.02142 [stat.ML].
 
 
 
